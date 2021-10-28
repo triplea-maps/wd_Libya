@@ -1,0 +1,4 @@
+map_name: WD_Libya
+games:
+- {game_name: WD_Libya, file_name: wd_libya.xml}
+version: 0
